@@ -13,3 +13,15 @@ My favourite language is chinese and japanese.
   
 ## List your favourite Restaurants  
 Burger King
+
+Name und Alter
+Michael und 24 Jahre **ALT*
+
+Lieblingsfarbe 
+rot, blau, grün
+
+Lieblingssprache
+portugiesisch
+
+Lieblingsrestaurant
+KFC, Burgerking
